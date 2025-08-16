@@ -1,1 +1,1 @@
-# RStudio
+  # Analiza economică utilizând indici bursieri
